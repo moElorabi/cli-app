@@ -8,6 +8,6 @@ to run this app, please do the following instructions:
 
 3- run "npm install -g ."
 
-4- run "app -f assets/csv-cli.csv -c ${column number} -s ${serach word, for example "fabio"}"
+4- run "app -f assets/csv-cli.csv -c ${column number} -s ${serach word, for example "fabio"}" to do a normal search
 
 command example: app -f assets/csv-cli.csv -c 2 -s fabio
